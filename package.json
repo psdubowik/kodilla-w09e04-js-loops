@@ -1,0 +1,23 @@
+{
+  "name": "kodillaFE_week09ex04_js_loops",
+  "version": "1.0.0",
+  "description": "Loops in JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/psdubowik/kodilla-w09e04-js-loops.git"
+  },
+  "keywords": [
+    "js",
+    "loop"
+  ],
+  "author": "PSD",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/psdubowik/kodilla-w09e04-js-loops/issues"
+  },
+  "homepage": "https://github.com/psdubowik/kodilla-w09e04-js-loops#readme"
+}
